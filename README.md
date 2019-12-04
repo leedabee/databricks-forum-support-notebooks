@@ -8,4 +8,6 @@
 | [db-forum-20881](./db-forum-20881) | Unable to handle columns enclosed by characters in Notebook                                          | https://forums.databricks.com/questions/20881/unable-to-handle-columns-enclosed-by-characters-in.html |
 | [db-forum-22548](./db-forum-22548) | Reading Complex CSV - Pyspark | https://forums.databricks.com/questions/22548/reading-complex-csv-pyspark.html |
 | [db-forum-28757](./db-forum-28757) | ROW_NUMBER() function in MERGE statement not starting from 1                                          | https://forums.databricks.com/questions/28757/row-number-function-in-merge-statement-not-startin.html |
+| [db-forum-29380](./db-forum-29380) | SQL Update Join                                          | https://forums.databricks.com/questions/29380/sql-update-join.html|
+
 
